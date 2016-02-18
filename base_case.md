@@ -82,8 +82,9 @@ Some text to show that the reference links can follow later.
 
 Links to Files
 
-[Absolute Path to a1](/a/a1.md)
-[Relative Path to a1](a1.md)
+[Absolute Path to a1](/test/a/a1.md)
+
+[Relative Path to a1 - does not work](a1.md)
 
 Images
 
