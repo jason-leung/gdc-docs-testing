@@ -1,8 +1,6 @@
 Base Case
 
-This is some plaintext.
-
-Here are some characters:
+Plaintext
 abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 `1234567890-=[]\;'',./
