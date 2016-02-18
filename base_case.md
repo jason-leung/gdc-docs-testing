@@ -1,9 +1,13 @@
 Base Case
 
 Plaintext
+
 abcdefghijklmnopqrstuvwxyz
+
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
 `1234567890-=[]\;'',./
+
 ~!@#$%^&*()_+{}|:""<>?
 
 Headers
