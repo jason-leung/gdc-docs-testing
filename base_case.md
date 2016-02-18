@@ -80,6 +80,10 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
 
+Links to Files
+
+[Absolute Path to a1](/a/a1.md)
+[Relative Path to a1](a1.md)
 
 Images
 
