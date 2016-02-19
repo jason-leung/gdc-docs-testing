@@ -250,3 +250,7 @@ supported
 unordered or ordered list
 supported)
 
+PDFs:
+
+[Link to external PDF](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[Link to local PDF]()
