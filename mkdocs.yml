@@ -1,0 +1,18 @@
+#
+# GDC Docs - Config
+#
+
+site_name: GDC Docs
+site_url: http://nci-gdc.github.io
+repo_url: https://github.com/nci-gdc/gdc-docs
+copyright: "&copy; GDC"
+theme_dir: theme
+pages:
+- Home: base_case.md
+- GDC:
+  - A1: 'a/a1.md'
+  - A2: 'a/a2.md'
+  - B1: 'b/b1.md'
+  - B2: 'b/b2.md'
+  - TestImage: 'test.jpg'
+  - TestPDF: 'test.pdf'
