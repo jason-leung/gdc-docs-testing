@@ -211,3 +211,42 @@ Add video in pure markdown, but losing image sizing and border
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
+BlockQuotes
+
+> This text should be inside
+> a block quote.
+
+Backslash Escapes
+
+Markdown provides backslash escapes for the following characters:
+/`*_{}[]()#+-.!
+
+\*literal asterisks\*
+
+Username Mention
+
+@jason-leung
+
+Issue reference
+
+#1
+github-flavored-markdown#1
+defunkt/github-flavored-markdown#1
+
+Emoji
+
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat: 
+
+Task List
+
+- [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mentions, #refs, [links](),
+**formatting**, and <del>tags</del>
+supported
+- [x] list syntax required (any
+unordered or ordered list
+supported)
+
